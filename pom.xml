@@ -10,8 +10,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.ecole221</groupId>
-    <artifactId>scolarite-hexagonal</artifactId>
+    <groupId>com.logistique</groupId>
+    <artifactId>logistique-hexagonal</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

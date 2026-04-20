@@ -19,8 +19,8 @@ services:
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT_INTERNAL
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
     networks:
-      - ecole221-net
+      - logistique-net
 
 networks:
-  ecole221-net:
+  logistique-net:
     external: true
